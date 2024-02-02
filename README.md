@@ -1,6 +1,6 @@
 # M14IntroduccioPython
 
 Benvinguts al meu repositori de Python
-## Els meus programes
+## Bateria de programes
 
-- [Hello World](hello_world.py)
+- [Problema 1](Bateria1.py)
