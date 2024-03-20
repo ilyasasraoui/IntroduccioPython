@@ -4,7 +4,7 @@ Benvinguts al meu repositori de Python
 ## Python
 ## Activitats If, Else i Elif
 - [Discoteca](Discoteca.py)
-
+- [Temperatura](Temperatura.py)
 
 
 
