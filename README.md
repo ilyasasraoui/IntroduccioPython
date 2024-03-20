@@ -6,7 +6,9 @@ Benvinguts al meu repositori de Python
 - [Discoteca](Discoteca.py)
 - [Temperatura](Temperatura.py)
 - [iniciar Sessió](iniciarSessió.py)
-
+## Activitats While, Break, i Continue
+- [numerofactorial](numerofactorial.py)
+  
 
 
 
