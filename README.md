@@ -10,8 +10,8 @@ Benvinguts al meu repositori de Python
 - [numerofactorial](numerofactorial.py)
 
 ## Activitats For
-- [Activitat1]
-- [Activitat2]
+- [Activitat1](foractivitat1.py)
+- [Activitat2](foractivitat2.py)
 
 
 
