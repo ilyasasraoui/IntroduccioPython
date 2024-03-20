@@ -2,6 +2,23 @@
 
 Benvinguts al meu repositori de Python
 ## Python
+## Activitats If, Else i Elif
+- [Discoteca]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Bateria de programes
 
@@ -11,4 +28,3 @@ Benvinguts al meu repositori de Python
 - [Problema 4](Bateria4.py)
 - [Problema 5](Bateria5.py)
 
-## Activitats If, Else i Elif
