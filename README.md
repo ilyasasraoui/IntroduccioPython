@@ -5,7 +5,7 @@ Benvinguts al meu repositori de Python
 ## Activitats If, Else i Elif
 - [Discoteca](Discoteca.py)
 - [Temperatura](Temperatura.py)
-- [iniciar Sessió](iniciar Sessió.py)
+- [iniciar Sessió](iniciarSessió.py)
 
 
 
