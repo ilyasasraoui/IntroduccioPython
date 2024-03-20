@@ -1,6 +1,7 @@
 # M14 Introduccio Python
 
 Benvinguts al meu repositori de Python
+print("Hello world!!!!!!!!!!!!!!!!!!!")
 ## Python
 ## Bateria de programes
 
