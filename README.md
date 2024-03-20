@@ -8,7 +8,10 @@ Benvinguts al meu repositori de Python
 - [iniciar Sessió](iniciarSessió.py)
 ## Activitats While, Break, i Continue
 - [numerofactorial](numerofactorial.py)
-  
+
+## Activitats For
+- [Activitat1]
+- [Activitat2]
 
 
 
