@@ -1,4 +1,4 @@
-# M14IntroduccioPython
+# M14 Introduccio Python
 
 Benvinguts al meu repositori de Python
 ## Bateria de programes
