@@ -10,6 +10,11 @@ Benvinguts al meu repositori de Python
 ## Activitats While, Break, i Continue
 - [Numero factorial](numfactorial.py)
 
+## Activitats Strings
+- [Activitat1](ActStrings1.py)
+- [Activitat2](ActStrings2.py)
+- [Activitat3](ActStrings3.py)
+  
 ## Activitats For
 - [Activitat1](foractivitat1.py)
 - [Activitat2](foractivitat2.py)
