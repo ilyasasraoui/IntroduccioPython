@@ -29,11 +29,11 @@ Benvinguts al meu repositori de Python
 
 ## Bateria 2 - if
 
-- [Problema 1]
-- [Problema 2]
-- [Problema 3]
-- [Problema 4]
-- [Problema 5]
+- [Problema 1](Bateria2-1.py)
+- [Problema 2](Bateria2-2.py)
+- [Problema 3](Bateria2-3.py)
+- [Problema 4](Bateria2-4.py)
+- [Problema 5](Bateria2-5.py)
 
 ## Bateria 3 - while
 
