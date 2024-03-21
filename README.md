@@ -2,6 +2,7 @@
 
 Benvinguts al meu repositori de Python
 ## Python
+- [Hello World](hello_world.py)
 ## Activitats If, Else i Elif
 - [Discoteca](Discoteca.py)
 - [Temperatura](Temperatura.py)
