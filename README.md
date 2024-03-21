@@ -18,18 +18,42 @@ Benvinguts al meu repositori de Python
 - [Calculadora](calculadora.py)
 
 
-
-
-
-
-
-
 #  Bateries
-## Bateria de programes
+## Bateria 1 - variables
 
-- [Problema 1](Bateria1.py)
-- [Problema 2](Bateria2.py)
-- [Problema 3](Bateria3.py)
-- [Problema 4](Bateria4.py)
-- [Problema 5](Bateria5.py)
+- [Problema 1](Bateria1-1.py)
+- [Problema 2](Bateria1-2.py)
+- [Problema 3](Bateria1-3.py)
+- [Problema 4](Bateria1-4.py)
+- [Problema 5](Bateria1-5.py)
 
+## Bateria 2 - if
+
+- [Problema 1]
+- [Problema 2]
+- [Problema 3]
+- [Problema 4]
+- [Problema 5]
+
+## Bateria 3 - while
+
+- [Problema 1]
+- [Problema 2]
+- [Problema 3]
+- [Problema 4]
+- [Problema 5]
+
+## Bateria 4
+
+- [Problema 1]
+- [Problema 2]
+- [Problema 3]
+- [Problema 4]
+- [Problema 5]
+
+## Bateria 5 - Llistes (arrays)
+
+-
+-
+-
+-
