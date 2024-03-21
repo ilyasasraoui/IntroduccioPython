@@ -53,7 +53,7 @@ Benvinguts al meu repositori de Python
 
 ## Bateria 5 - Llistes (arrays)
 
--
--
--
--
+- [Problema 1]
+- [Problema 2]
+- [Problema 3]
+- [Problema 4]
