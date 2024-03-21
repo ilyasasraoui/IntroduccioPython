@@ -13,7 +13,7 @@ Benvinguts al meu repositori de Python
 - [Activitat1](foractivitat1.py)
 - [Activitat2](foractivitat2.py)
 
-
+## Calculadura
 
 
 
