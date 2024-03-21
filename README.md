@@ -14,7 +14,7 @@ Benvinguts al meu repositori de Python
 - [Activitat2](foractivitat2.py)
 
 ## Calculadura
-
+- [Calculadora](calculadora.py)
 
 
 
