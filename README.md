@@ -8,7 +8,7 @@ Benvinguts al meu repositori de Python
 - [Temperatura](Temperatura.py)
 - [iniciar Sessió](iniciarSessió.py)
 ## Activitats While, Break, i Continue
-- [numfactorial](numfactorial.py)
+- [Numero factorial](numfactorial.py)
 
 ## Activitats For
 - [Activitat1](foractivitat1.py)
