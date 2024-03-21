@@ -24,7 +24,7 @@ Benvinguts al meu repositori de Python
 
 
 
-#  Bateries 
+
 ## Bateria de programes
 
 - [Problema 1](Bateria1.py)
