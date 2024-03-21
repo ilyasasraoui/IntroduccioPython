@@ -54,6 +54,6 @@ Benvinguts al meu repositori de Python
 ## Bateria 5 - Llistes (arrays)
 
 - [Problema 1](Bateria5-1.py)
-- [Problema 2](
-- [Problema 3]
-- [Problema 4]
+- [Problema 2](Bateria5-2.py)
+- [Problema 3](Bateria5-3.py)
+- [Problema 4](Bateria5-4.py)
